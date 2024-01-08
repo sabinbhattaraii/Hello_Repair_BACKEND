@@ -3,21 +3,21 @@
     "username": "repair_user",
     "password": "3dAAN7475R66pb8NzhTVzuYRrAzDgBEJ",
     "database": "repair",
-    "host": "dpg-cmdse4821fec73d5usd0-a",
-    "dialect": "postgres"
+    "host": "dpg-cmdse4821fec73d5usd0-a.oregon-postgres.render.com",
+    "dialect": "psql"
   },
   "test": {
     "username": "repair_user",
     "password": "3dAAN7475R66pb8NzhTVzuYRrAzDgBEJ",
     "database": "repair",
-    "host": "dpg-cmdse4821fec73d5usd0-a",
-    "dialect": "postgres"
+    "host": "dpg-cmdse4821fec73d5usd0-a.oregon-postgres.render.com",
+    "dialect": "psql"
   },
   "production": {
     "username": "repair_user",
     "password": "3dAAN7475R66pb8NzhTVzuYRrAzDgBEJ",
     "database": "repair",
-    "host": "dpg-cmdse4821fec73d5usd0-a",
-    "dialect": "postgres"
+    "host": "dpg-cmdse4821fec73d5usd0-a.oregon-postgres.render.com",
+    "dialect": "psql"
   }
 }
